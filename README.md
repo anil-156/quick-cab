@@ -45,8 +45,5 @@
 
 ---
 
-## 📄 Published Paper
 
-This project is published in the **International Journal of Creative Research Thoughts (IJCRT)**  
-📘 Volume 13, Issue 3, March 2025 – [Read Paper](https://www.ijcrt.org/)
 
